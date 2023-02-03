@@ -1,0 +1,7 @@
+setup.py
+src/tridistribute_cuda.cpp
+src/tridistribute_kernel.cu
+tridistribute.egg-info/PKG-INFO
+tridistribute.egg-info/SOURCES.txt
+tridistribute.egg-info/dependency_links.txt
+tridistribute.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+{'resize_strategy': 'Fixed256', 'use_flip': False, 'use_feature': True, 'backbone_type': 'issam', 'write_lut_output': '', 'write_lut_map': '', 'normalize_outside': False, 'gpu': '0', 'config_path': './config.yml', 'eval_prefix': '', 'train_list': None, 'val_list': './test_frames.txt', 'write_npy_backbone': False, 'write_npy_result': True, 'backbone_npy_dir': '', 'result_npy_dir': '/root/autodl-tmp/Output/TL', 'dataset_path': '/root/autodl-tmp', 'previous_num': 8, 'future_num': 8, 'backbone': './final_models/issam_backbone.pth', 'checkpoint': './final_models/issam_final.pth'}
+Load checkpoint from path: ./final_models/issam_backbone.pth
+Load checkpoint from path: ./final_models/issam_final.pth
+load checkpoint
+  0%|                                                   | 0/398 [00:00<?, ?it/s]
